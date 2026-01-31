@@ -8,7 +8,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 背景图片配置
 	src: {
 		// 桌面背景图片
-		desktop: "/assets/images/d1.webp",
+		desktop: "/assets/images/win1.webp",
 		// 移动背景图片
 		mobile: "/assets/images/m1.webp",
 	},
@@ -24,17 +24,22 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Lovely Kokomi!",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"奇策百计，决胜千里",
+				"未雨绸缪，才能临危不乱。",
+				"战场局势千变万化，只有思虑周全，才能百战不殆。",
+				"每个生灵的意志都值得尊重，就像海中的游鱼，也有自己的方向。",
+				"可以请你留在海祇岛…再陪我一段时间吗？",
+				// "In Reddened Chrysalis, I Once Rest",
+				// "From Shattered Sky, I Free Fall",
+				// "Amidst Silenced Stars, I Deep Sleep",
+				// "Upon Lighted Fyrefly, I Soon Gaze",
+				// "From Undreamt Night, I Thence Shine",
+				// "In Finalized Morrow, I Full Bloom",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -61,13 +66,13 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			},
 			text: {
 				// 桌面端要显示的来源文本
-				desktop: "Pixiv - 晚晚喵",
+				desktop: "Pixiv - BLACKmeow",
 				// 移动端要显示的来源文本
 				mobile: "Pixiv - KiraraShss",
 			},
 			url: {
 				// 桌面端原始艺术品或艺术家页面的 URL 链接
-				desktop: "https://www.pixiv.net/artworks/135490046",
+				desktop: "https://www.pixiv.net/artworks/127517196",
 				// 移动端原始艺术品或艺术家页面的 URL 链接
 				mobile: "https://www.pixiv.net/users/42715864",
 			},
