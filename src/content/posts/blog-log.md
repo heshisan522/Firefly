@@ -26,3 +26,7 @@ image: ./images/kokomi1.webp
 pinned:false
 ```
 <br>
+
+**2026-2-5**<br>
+- 记录了小光的活动和主线。<br>
+
